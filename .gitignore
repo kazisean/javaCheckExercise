@@ -1,6 +1,0 @@
-.gitignore
-build.xml
-dist/
-build/
-nbproject/
-.idea/
